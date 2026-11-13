@@ -1,8 +1,8 @@
 # Sena Registro v2 — Reestructurado en MVC
 
-## ¿Qué es MVC y para que sirve?
+## ¿Qué es MVC?
 
-**MVC (Modelo–Vista–Controlador)** es un patrón de arquitectura de software que
+**MVC (Modelo–Vista–Controlador y drivers)** es un patrón de arquitectura de software que
 separa una aplicación en tres capas con responsabilidades distintas:
 
 | Capa | Pregunta que responde | Qué contiene en este proyecto |
